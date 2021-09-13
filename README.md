@@ -13,7 +13,3 @@ Let me know if you encounter issues with the calculator
 3. Open an emulator and run `flutter run` within the cloned repo's folder.
 4. Try it out.
 
-| Calculator Screen | History Screen |
-| --- | --- |
-| ![image](images/calculator.png) 
-
