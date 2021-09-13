@@ -15,5 +15,5 @@ Let me know if you encounter issues with the calculator
 
 | Calculator Screen | History Screen |
 | --- | --- |
-| ![image](images/calculator.png) | ![history](images/history.png) |
+| ![image](images/calculator.png) 
 
